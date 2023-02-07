@@ -1,0 +1,13 @@
+--module-path
+"C:\\Program Files\\javafx-sdk-18\\lib"
+--add-modules
+javafx.controls,javafx.fxml
+--module-path
+"C:\\Program Files\\javafx-sdk-18\\lib"
+--add-modules
+javafx.media
+-Dfile.encoding=Cp1252
+-classpath
+"C:\\Users\\chant\\eclipse-workspace\\ProgMethPrj\\bin"
+-XX:+ShowCodeDetailsInExceptionMessages
+main.Main
